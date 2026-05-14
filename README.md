@@ -1,1 +1,0 @@
-# BLIP-hallucination-project
