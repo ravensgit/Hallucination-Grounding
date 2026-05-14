@@ -1,0 +1,4 @@
+method,CHAIRs,CHAIRi,hall_captions,total_captions
+baseline,5.0,3.29,25,500
+clip_only,6.8,4.43,34,500
+hybrid,0.8,0.79,4,500

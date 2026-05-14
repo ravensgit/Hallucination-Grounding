@@ -1,0 +1,501 @@
+image_id,caption,gt,wrong,is_hall
+139,a living room and dining area with yellow walls,book|chair|clock|dining table|microwave|person|potted plant|refrigerator|tv|vase,,False
+285,a large bear with a missing tooth and an alert look on its face,bear,,False
+632,"a bedroom with a large window, bookshelf, and blue bed",bed|book|chair|potted plant,,False
+724,a stop sign on a street corner with a dols sign on it,car|stop sign|truck,,False
+776,three teddy bears laying on top of each other,bear|bed|teddy bear,,False
+785,a woman in a red jacket skiing down a hill,person|skis,,False
+802,a small kitchen with refrigerator and white stove,oven|refrigerator,,False
+872,a baseball player is running to first base,baseball glove|person|sports ball,,False
+885,a male tennis player is swinging his racket,person|sports ball|tennis racket,,False
+1000,young boys and girls posing with their tennis rackets,backpack|handbag|person|tennis racket,,False
+1268,a woman taking a picture of a bird under a bridge,backpack|bird|boat|cell phone|handbag|person,,False
+1296,a woman looking at her phone with a hello kitty on the screen,cell phone|clock|person,,False
+1353,children ride a kiddie car in an indoor area,orange|person|train,car,True
+1425,a black and white photo of a half eaten sandwich,bowl|dining table|sandwich,,False
+1490,a man on a surfboard paddling across a body of water,person|surfboard,,False
+1503,a white computer desk with various computers on it,apple|dining table|keyboard|laptop|mouse|tv,,False
+1532,a freeway with several signs above it and cars driving underneath,car|truck,,False
+1584,a red double decker bus is shown in a city,bus|person,,False
+1675,a black and white cat is laying on the back of a computer,cat|keyboard|laptop,,False
+1761,two planes flying over the sydney harbour bridge,airplane|person,,False
+1818,zebras are rubbing noses against each other in black and white,giraffe|person|zebra,,False
+1993,a purple and blue bed in the corner of a room,bed|chair|dining table,,False
+2006,the bus is purple with designs on it,bus|person|tie|traffic light,,False
+2149,close up image of green apples in bowl,apple|bowl,,False
+2153,a baseball player is up to bat at a game,baseball bat|person|sports ball,,False
+2157,"a table with a cake, fruit and wine glasses",cake|cup|dining table|knife|sandwich|wine glass,,False
+2261,a person riding a surf board in the ocean,person|surfboard,,False
+2299,group photograph of children with older school names,person|tie,,False
+2431,"a table holding two cups, and some bread and wine",cup|dining table|knife|person|spoon|wine glass,,False
+2473,a man skiing jumping high into the air with trees in the background,person|skis,,False
+2532,person standing at the top of a snowy mountain with ski poles,person|skis,,False
+2587,a banana and a doughnut in a bag,banana|donut|sandwich,,False
+2592,mug with the pirate's chest emblem and a large knife sitting on the counter,cup|dining table|knife,,False
+2685,people are shopping at an antiques and wine shop,bottle|cup|handbag|person|wine glass,,False
+2923,large shrimp boats are docked in a grassy area,bird|boat,,False
+3156,black and white image of a man crouching next to a toilet,person|sink|toilet,,False
+3255,a group of skiers stand in the snow on a mountain,backpack|person|skis,,False
+3501,"a bowl of rice, broccoli and red sauce",bowl|broccoli,,False
+3553,a man riding on top of a skateboard over a wooden ramp,person|skateboard,,False
+3661,several banana bunches in front of a computer desk,banana|cup|dining table|keyboard,laptop,True
+3845,a plate of food with rice and vegetables,broccoli|carrot|cup|dining table|fork|spoon,,False
+3934,children playing on a tv remote in front of a couch,couch|cup|person|remote|wine glass,tv,True
+4134,two men in business attire shaking hands during a formal dinner,chair|dining table|person|tie|wine glass,,False
+4395,man wearing dress shirt and tie in business wear,person|tie,,False
+4495,two chairs with footstools are facing toward an old tv set,chair|couch|tv,,False
+4765,a man riding a wave on a surfboard,person|surfboard,,False
+4795,a gray cat sitting in front of a computer monitor and phone,cat|cell phone|laptop|tv,,False
+5001,a group of people standing around with a kid cutting a ribbon,bicycle|handbag|person|scissors,,False
+5037,a bus pulls up at a stop in the city,bus|car|person,,False
+5060,a man sitting on the floor in front of a mirror,cell phone|person,,False
+5193,group of surfers posing in an garage with their boards,bottle|person|surfboard,,False
+5477,the large airliner is parked in an airport,airplane,,False
+5503,a view from above looking into a toilet,airplane|person|toilet,,False
+5529,"a man skiing down a snowy mountain, with two poles",person|skis,,False
+5586,a man taking a swing at a tennis ball,person|sports ball|tennis racket,,False
+5600,a close up of some food in metal containers,bowl|dining table|spoon,,False
+5992,three sheep standing next to a brick building,sheep,,False
+6012,an abstract photo has bananas and an apple in each other,apple|banana,,False
+6040,a light rail in a street with cars on the sides,car|person|train|truck,,False
+6213,the large bathroom has a walk in shower and double sinks,sink,,False
+6460,black and white image of a surfer jumping over a wave,person|surfboard,,False
+6471,a baseball player taking a swing at the ball,baseball bat|baseball glove|bench|bottle|person,sports ball,True
+6614,"a black and white picture of some almonds, apples and grapes",apple|orange,,False
+6723,a long street lined with buildings next to a highway,bicycle|bus|car|truck,,False
+6763,two people in front of the bar smiling,cell phone|dining table|person|tie|tv,,False
+6771,the woman is wearing costume and a gold hat,cell phone|person,,False
+6818,"a white bathroom with a black window, toilet and buckets",toilet,,False
+6894,man with sunglasses holding elephants ears while looking at the camera,elephant|person|truck,,False
+6954,a group of children sit in a grassy area holding frisbees,frisbee|person,,False
+7088,small child in red jacket holding umbrella while standing in street,car|person|truck|umbrella,,False
+7108,an adult elephant walks through the mud with another elephant in the background,elephant,person,True
+7278,a man in red and green shirt surfing on an ocean wave,person|surfboard,,False
+7281,two people in white riding horses on the beach,horse|person,,False
+7386,an old bicycle sitting in a yard beside a motorcycle trailer,bicycle|dog|motorcycle|truck,,False
+7511,a man is standing in the sand flying a kite,backpack|kite|person,,False
+7574,a kitchen filled with lots of clutter and appliances,bottle|bowl|microwave|oven|refrigerator|sink|vase|wine glass,,False
+7784,a para sailer kite is soaring through the air,kite|orange,,False
+7795,"two beds in a large bedroom, with wooden floors",bed|clock|remote,,False
+7816,a motorcycle rider on a race course with people watching,motorcycle|person,,False
+7818,a table is set for dinner with white flowers,chair|dining table|fork|knife|vase|wine glass,,False
+7888,a black and white photo of two clocks on a post,clock,,False
+7977,a young skateboarder in a black shirt is doing a trick,person|skateboard,,False
+7991,a plate of carrots and green beans on a counter,carrot|dining table|knife|person,,False
+8021,a man in a suit is on a large screen,bottle|person|tie,,False
+8211,two men sitting on a curb next to a motorcycle,bicycle|chair|motorcycle|person,,False
+8277,a bowl with broccoli and other foods on a paper plate,bowl|broccoli|cup|fork,,False
+8532,a black man wearing glasses and a plaid hat smiles for the camera,cat|person|tie,,False
+8629,a collage of photos of different types of pizza,fork|pizza,,False
+8690,two little girls are petting two small goats,person|sheep,,False
+8762,a street light with a green light above it,car|traffic light,,False
+8844,a woman smiles behind a table of bananas,banana|dining table|person,,False
+8899,a fire hydrant in front of a building with graffiti on it,bicycle|fire hydrant,,False
+9378,a man with long hair holding a frisbee in front of a crowd,frisbee|person,,False
+9400,a group of people sitting in a restaurant while using computers,cup|dining table|keyboard|laptop|mouse|person,,False
+9448,a young girl standing underneath an open blue umbrella,person|umbrella,,False
+9483,a man standing in front of a computer monitor,dining table|keyboard|laptop|mouse|person|tv,,False
+9590,several men sit around a table eating food,bottle|bowl|chair|clock|cup|dining table|person|spoon,,False
+9769,a red truck driving down a street with snow on the ground,fire hydrant|person|truck,,False
+9772,a bathroom with two sinks and a tv mounted above,person|sink|tv,,False
+9891,two men loading luggage into a car at an airport,backpack|car|person|suitcase|tie,,False
+9914,"a plate with a burger, fries, and pickles",bowl|cup|dining table|hot dog|knife|sandwich,,False
+10092,a bedroom with a mosquito net bed and table,bed|bird|chair|dining table,,False
+10363,a cat stands on top of the hood of a car,bicycle|bottle|car|cat,,False
+10583,a plate of food with meat and gravy,dining table|knife|sandwich,,False
+10707,three men playing video games with remote controllers in a living room,backpack|bottle|couch|cup|dining table|laptop|person|remote,,False
+10764,a baseball player with a catchers mitt on a field,baseball glove|person|sports ball,,False
+10977,a bathroom with pink tiles and brown cabinets,sink|toilet,,False
+10995,a bed with a plaid comforter and a window,bed,,False
+11051,a young woman tying a boutonniere to the mans suit coat,person|tie,,False
+11122,a stop sign behind a fence in a yard,stop sign,,False
+11149,two men standing on the side of the street with a row of bikes,bicycle|motorcycle|person,,False
+11197,a man standing at a cross walk near a street,backpack|bicycle|car|person|traffic light,,False
+11511,a statue of two people sitting on a bench,bench|handbag|motorcycle|person,,False
+11615,a street sign with several different signs on it,truck,,False
+11699,two girls pose for the camera while holding a large suitcase,handbag|person|suitcase,,False
+11760,two zebras are standing near a group of trees,zebra,,False
+11813,a camera set up on a tripod for a video shoot,chair|laptop,,False
+12062,"a white sheep surrounded by dirty, fur covered animal beds",couch|sheep|sports ball,bed,True
+12120,two tennis players are on the court during a match,chair|person|sports ball|tennis racket,,False
+12280,a woman walking with a suitcase through an airport,cat|person|suitcase|tv,,False
+12576,a table with pizzas and glasses of wine,cup|dining table|fork|knife|person|pizza|tv,,False
+12639,a young baseball player is getting ready to swing,baseball bat|baseball glove|person,,False
+12667,banana on telephone receiver with writing pad next to it,banana|cell phone|dining table,,False
+12670,an outdoor crowd of people standing next to each other,backpack|cell phone|handbag|person|teddy bear,,False
+12748,a man holding a baby and petting a horse,horse|person,,False
+13004,a small white bowl with a peeled banana and sauce,banana|dining table,bowl,True
+13177,a man working on a motorcycle wheel in front of a bike,bicycle|motorcycle|person,,False
+13201,a young man with dreadlocks skateboarding on a ramp,person|skateboard,,False
+13291,six asian children are posing with frisbees while holding an adult,frisbee|person,,False
+13348,large jetliner parked at an airport terminal with boarding walkway and walkway,airplane|person|truck,,False
+13546,a man skateboarding on a ramp outside at the park,bench|person|skateboard,,False
+13597,a piece of chocolate cake on a plate,cake|dining table,,False
+13659,a group of people at table with laptop computers,chair|cup|dining table|keyboard|laptop|person|tv,,False
+13729,a group of people standing around a living room holding nintendo wii controllers,bottle|couch|cup|dining table|person|remote,,False
+13774,person standing on water with a ball over their head,frisbee|kite|person,sports ball,True
+13923,a living room with a table and chairs,bottle|bowl|chair|couch|dining table|potted plant|tv|vase,,False
+14007,the cat is perched on the small blue refrigerator,cat|refrigerator,,False
+14038,the room has many balloons and a lot of other stuff on the floor,bed|book|bottle|cell phone|chair|couch|dining table|microwave|potted plant|refrigerator|tv,,False
+14226,a man holding a laptop on his lap while looking out the window,apple|chair|dining table|laptop|person|train,,False
+14380,the bridge is surrounded by tracks and cars,car|train,,False
+14439,two women fly a colorful kite in a park,backpack|chair|kite|person,,False
+14473,a model train on a track with some traffic cones around it,person|train,,False
+14831,the side view of a cat laying on a bed,bed|cat|orange,,False
+14888,a cow with red and white cups on its back,cow,cup,True
+15079,a sandwich is shown on a plate with a knife,knife|sandwich,,False
+15254,the lunchbox is packed with vegetables and meat,bowl|carrot|dining table|spoon,,False
+15272,a traffic light sitting next to a bunch of cherry trees,traffic light,,False
+15278,broccoli on a plate with fish on the side,broccoli,,False
+15335,"a woman, man and young boy at a table together eating food",bowl|cell phone|couch|cup|dining table|person,,False
+15338,a bus is sitting at a bus stop,bus|car|person|sports ball|truck,,False
+15440,a stop sign stands at the corner on an empty street,bus|stop sign,,False
+15497,cat laying on a sofa with a computer mouse,cat|couch|laptop|mouse,,False
+15517,buses are lined up next to each other in an urban area,bus,,False
+15597,a shirtless skateboarder skating on a half pipe,bicycle|person|skateboard,,False
+15660,a person riding a windsurfing in the ocean,kite|person|surfboard,,False
+15746,a red fire hydrant sitting in the grass,fire hydrant,,False
+15751,a group of birds sitting on the outside of a shed,bird,,False
+15956,a person walking with a horse inside of a barn,clock|horse|person,,False
+16010,"zebras, other animals and rhinos are in the green field",cow|zebra,,False
+16228,an image of a carriage with a horse,bench|bus|car|horse|person|tie|train|umbrella,,False
+16249,an older man sits on a bench in a city,backpack|bench|chair|person,,False
+16439,a lap top on a wooden desk under a lamp,cell phone|dining table|laptop|wine glass,,False
+16451,a beach with a few surfboards and a chair,backpack|chair|handbag|person|surfboard|umbrella,,False
+16502,a sheep standing on top of a rocky hill,sheep,,False
+16598,a woman with blue hair takes a picture of herself in the mirror,cell phone|person|tie,,False
+16958,a chair is sitting by a fire place in a room,book|chair|dining table|vase,,False
+17029,a dog jumping in the air to catch a frisbee,car|dog|frisbee,,False
+17031,a giraffe is standing in front of a group of people,giraffe|person,,False
+17115,a pair of zebras looking towards the camera,zebra,,False
+17178,a number of horses near a car,car|horse,,False
+17182,a chalkboard behind a wooden desk with wooden chairs,apple|book|chair|dining table,,False
+17207,a bus is driving down the street in india,bench|bus|car|motorcycle|person,,False
+17379,tv screen and large mirrors in public restroom,person|sink|tv,,False
+17436,a couple sitting on a bench in front of a clock tower,bench|person,clock,True
+17627,cars are stopped at an intersection in a city,bus|car|person,,False
+17714,a plate of food and a cup of coffee on a table,banana|cup|dining table|fork|knife|pizza|spoon|train,,False
+17899,an older lady in an apron slicing up cookies and other items,bird|cake|chair|couch|cup|dining table|hot dog|person|spoon,,False
+17905,man standing beside a traffic light in a foreign country,fire hydrant|person|traffic light,,False
+17959,a group of kites with clown fish kites hanging in a park,backpack|kite|orange|person,,False
+18150,man looking at a little boy eating a slice of pizza,backpack|bottle|couch|person|pizza,,False
+18193,a young woman sitting in a camping chair eating food,apple|chair|hot dog|person|sandwich,,False
+18380,a group of people sitting around a table with plates of food,bowl|carrot|chair|cup|dining table|fork|knife|person|spoon|vase|wine glass,,False
+18491,a baseball player sliding into home plate,baseball bat|baseball glove|bench|person|sports ball,,False
+18519,a skate boarder doing tricks at a skate park,person|skateboard,,False
+18575,a plate of food with a burger and fries,bottle|bowl|dining table|knife|sandwich|wine glass,,False
+18737,a large red motorcycle parked near a beach,motorcycle,,False
+18770,an older man with eye glasses on wearing a suit and tie,person|tie,,False
+18833,a cat sleeps inside a pair of shoes,cat,,False
+18837,a green truck with two men on top of it,car|person|truck,,False
+19042,a river with rocks and a person standing near the water,bird|car,person,True
+19109,several parked motorcycles line a street in front of shops,handbag|motorcycle|person,,False
+19221,a small piece of broccoli sitting in a persons hand,broccoli|person,,False
+19402,a man and a woman eating pizza in a restaurant,person|pizza,,False
+19432,the tennis player is preparing to hit the ball,chair|person|sports ball|tennis racket,,False
+19742,the orange glass is sitting on the table next to the candle,cup|dining table|person|vase,orange,True
+19786,a man standing inside of a living room with his headphones on,couch|laptop|person|remote,,False
+19924,a woman smoking a cigarette with a hat on and holding a cigar in her mouth,person|tie,,False
+20059,two zebras standing in a grassy zoo enclosure,zebra,,False
+20107,an old rusty fire hydrant is placed in front of a cement wall and tree,fire hydrant,,False
+20247,two brown bears walking on a dirt road,bear,,False
+20333,a young boy with a tie is playing in the dirt,bowl|person|tie,,False
+20553,a few teddy bears and other items are set out in a desert setting,bed|bottle|chair|couch|cup|dining table|teddy bear|umbrella|vase,,False
+20571,a fleet of fishing boats sitting next to each other on a dock,boat|handbag|person,,False
+20992,a woman sticking her tongue out while holding a hot dog,hot dog|person,,False
+21167,a woman with a glass in her hands and a man in a suit,person|tie|wine glass,,False
+21465,a blue shelf holding knick knacks and other items,chair|cup|dining table|vase,,False
+21503,pieces of toast and frosted cookies on a plate,dining table|keyboard|mouse|remote|sandwich,,False
+21604,a man wearing a light up tie,person|tie,,False
+21839,a person walking across a street with people and buildings in the background,car|handbag|person|traffic light,,False
+21879,two women in bikinis surf with people lying on surfboards,person|surfboard,,False
+21903,a man is petting an elephant behind a fence,elephant|person,,False
+22192,brown pit bull dog sitting on bed in front of a pile of unmade clothes,bed|cow|dog|handbag,,False
+22371,"a business man is sitting at his desk, holding his nose to his mouth,",book|dining table|laptop|person|tie,,False
+22396,a large jetliner flying past a partial moon,airplane|person,,False
+22479,a skateboarder is mid air as he attempts a trick,bench|person|skateboard,,False
+22589,two sheep are behind a wire fence in a park,sheep,,False
+22623,a close up of a cell phone with a picture on it,cell phone|orange,,False
+22705,a woman standing in front of a fridge with drinks,bottle|bowl|person|refrigerator|wine glass,,False
+22755,a rear view mirror on a yellow school bus reflecting the roadway,bus|car,,False
+22892,a cat and dog looking outside through a glass door,cat|chair|dining table|dog|potted plant,,False
+22935,a woman in a blue uniform is playing soccer,person|sports ball,,False
+22969,two giraffes standing next to a wooden fence near a forest,giraffe,,False
+23023,a black and white photo of luggage and a bag,handbag|suitcase,,False
+23034,a man in red hat walking down a dirt path with two horses,backpack|horse|person,,False
+23126,the man is riding on a horse while standing on the track,horse|person,,False
+23230,four geese swimming on a pond near bushes,bird,,False
+23272,an orange and white cat sitting on the hood of a mercedes,car|cat,orange,True
+23359,a snowboarder in brown jacket doing a jump,person|snowboard,,False
+23666,this bathroom has an old fashioned toilet and old bathtub,toilet,,False
+23751,a man flying a kite in front of a building,kite|person,,False
+23781,several baskets full of fruit and vegetables are seen here,broccoli|carrot,,False
+23899,three men are playing with video games in a bedroom,couch|person|remote|tv,,False
+23937,cows are lying in the shade next to a tree,cow|sheep,,False
+24021,"black and white photo of boys in uniforms and ties, with brick buildings behind them",person|tie,,False
+24027,a colorful kite is flying over a park,kite|person,,False
+24144,a large cheese pizza sitting inside a box,pizza,,False
+24243,"a woman sitting in an old refrigerator, while her companion talks on the phone",cup|person|refrigerator,cell phone,True
+24567,a man standing over some hot dogs on a tray,chair|hot dog|person,,False
+24610,"there is a room with several books, a computer, and other furniture",backpack|book|bottle|chair|couch|dining table|laptop,,False
+24919,two elephants standing on top of a grass covered field,elephant|horse,,False
+25057,a shirtless man holds a frisbee as another person runs by,bottle|frisbee|person,,False
+25096,a boy is sitting at a table cutting into a train shaped cake,cake|chair|dining table|knife|person|skateboard|zebra,train,True
+25139,two zebras standing next to each other in a pen,zebra,,False
+25181,the black and white image shows two trains on the tracks at the train station,backpack|bench|person|train,,False
+25228,a woman riding on a surfboard under a cloudy sky,person|surfboard,,False
+25386,a man and woman sitting on a train eating food,chair|hot dog|person|sandwich|train,,False
+25393,two young men in suits crossing street at night,car|person|tie,,False
+25394,a man is pouring a glass of wine,bottle|cup|person|wine glass,,False
+25424,a man is swinging a tennis racket at a ball,person|sports ball|tennis racket,,False
+25560,a white and brown cat stands on a table near a tv,cat|cup|orange|person|tv,dining table,True
+25593,street signs in english and chinese written in asian,bicycle|person|stop sign,,False
+25603,"a young girl eating at a restaurant, next to a pizza",book|chair|cup|dining table|person|pizza,,False
+25986,the counter is covered with various dishes of food,bowl|broccoli|cup|dining table|donut|spoon,,False
+26204,"cars, trucks, bus and ambulance wait at an intersection on a busy city street",bus|car|person|traffic light|truck,,False
+26465,a desk top with an open laptop and various cell phones on it,cell phone|chair|dining table|keyboard|laptop|person|remote,,False
+26564,"a desk with a computer, keyboard, mouse and books",book|bottle|dining table|keyboard|laptop|mouse|tv,,False
+26690,skateboarder jumping at the top of a ramp in front of crowd,person|refrigerator|skateboard,,False
+26926,a fire hydrant with a face drawn on it,car|fire hydrant|orange|tie,,False
+26941,multiple suitcases piled on top of each other,person|suitcase,,False
+27186,a little girl holding a nintendo wii game controller,couch|person|remote,,False
+27620,a glass computer desk with a keyboard and monitor,bottle|chair|dining table|keyboard|laptop|mouse,tv,True
+27696,a pizza with peppers and onions on a plate,dining table|fork|knife|person|pizza,,False
+27768,a red and white bus parked in front of a tall building,bus|car|person,,False
+27932,a baseball glove with a hat attached laying in the sand,baseball glove|sports ball,,False
+27972,a man in a red shirt on top of a surfboard,person|surfboard,,False
+27982,"the black and white photo shows a bathroom with a sink, toilet, and shower",chair|sink|toilet,,False
+28285,a church tower on top of a tiled roof,clock,,False
+28449,several elephants are walking down the road near a bush,elephant,,False
+28452,"an empty, white refrigerator with the door open",bottle|refrigerator,,False
+28809,a close up of bananas with stickers on them,banana|dining table,,False
+28993,two fire hydrants with buildings in the background,fire hydrant|person|traffic light,,False
+29187,a woman riding a horse and carriage on a race track,horse|person,,False
+29393,a dog standing on a bench in a backyard,bench|dog|orange,,False
+29397,a person in red pants is standing on a bench with blue tape,bench|orange|person,,False
+29596,a hotel room with an orange sofa and table,book|chair|couch|cup|dining table|potted plant|tv|vase,orange,True
+29640,"vegetables, meat and broccoli being cooked in a wok",broccoli|carrot|oven|spoon,,False
+29675,"three hot dogs with mustard on them, sitting on a black plate",dining table|hot dog,,False
+29984,people relaxing in the water at a beach,chair|person|umbrella,,False
+30213,an old fashioned kitchen that has green wallpaper,apple|bottle|bowl|chair|dining table|oven|refrigerator|sink,,False
+30494,a dog is walking in the woods with a frisbee,dog|frisbee,,False
+30504,a man is skiing in deep snow on a trail,backpack|person|skis,,False
+30675,an orange and black train engine passing on train tracks near trees,orange|train,,False
+30785,a plate with a bowl of broccoli and a sandwich,bowl|broccoli|dining table|sandwich,,False
+30828,a person sleeping on a park bench with a sleeping bag,backpack|bench|car|orange|parking meter|person,,False
+31050,a vase with dried plants inside it on a shelf,vase,,False
+31093,a man is skateboarding in a big bowl at a park,backpack|bowl|person|skateboard,,False
+31118,a large clock tower with a christmas tree in the middle of a city,car|clock|person,,False
+31217,a person is playing tennis on the court,person|sports ball|tennis racket,,False
+31248,two chairs and a lamp in a room with bookshelves,book|bowl|chair|couch|potted plant,,False
+31269,two zebras grazing in the middle of a grassy field,horse|person|zebra,,False
+31296,a group of people sitting at a table in a restaurant,bottle|cell phone|chair|clock|cup|dining table|person|tie,,False
+31322,swans and their mate on the water in a marina,bird|boat|person,,False
+31620,a man and woman cutting into their wedding cake,cake|chair|cup|dining table|knife|person|tie,,False
+31735,a red living room with a couch and lamps,book|couch|dining table|potted plant,,False
+31749,a doll with red hair sitting next to a clock,clock,,False
+31817,a man wearing a black helmet sitting on top of a scooter,motorcycle|person,,False
+32038,a large pizza is shown on a wooden table,bottle|dining table|oven|person|pizza,,False
+32081,a female tennis player returning a serve,person|sports ball|tennis racket,,False
+32285,a bathroom with yellow walls and tile floors,toilet,,False
+32334,a man and woman are holding glasses of wine,car|chair|person|wine glass,,False
+32570,this is an image of a surfer surfing,person|surfboard,,False
+32610,a desk topped with many laptops and backpacks,backpack|bench|dining table|laptop,,False
+32735,a person is jumping with skis in the air,person|skis,,False
+32811,a bird standing outside of a window near a body of water,bird|boat,,False
+32817,two men are painting a bathroom with blue paint,bowl|person|toilet,,False
+32861,a woman standing in a hallway holding an umbrella,person|umbrella,,False
+32887,the man wearing a backpack stands in front of a rocky stairway,backpack|cell phone|person,,False
+32901,four men posing for a photo at a wine tasting,bottle|chair|cup|dining table|person|tie|wine glass,,False
+32941,a street corner is shown with the street light broken down,bus|car|person|traffic light|truck,,False
+33005,a man holding a tennis racquet on a tennis court,person|sports ball|tennis racket,,False
+33104,two people on skis are talking near a net,bench|person|skis|snowboard,,False
+33109,a large truck driving down a road near houses,bus|car|truck,,False
+33114,an airplane with it's landing gear deployed at an airport,airplane|parking meter,,False
+33221,people stand and hold tennis racquets in the sand,baseball bat|car|handbag|person|tennis racket|truck,,False
+33368,a tennis player wearing blue shirt and white shorts,person|sports ball|tennis racket,,False
+33638,a young woman standing over an old fashioned stove,bowl|oven|person|spoon,,False
+33707,two giraffes are standing close together at the zoo,giraffe|person,,False
+33759,a boy in green jersey swinging at a ball with bat,baseball bat|car|person|sports ball|truck,,False
+33854,"cars, motorcycles and a bus on display at a city event",bus|car|motorcycle|person,,False
+34071,a parking meter with the sun setting in the background,parking meter,,False
+34139,a very large luggage bag in front of a statue,handbag|person|suitcase,,False
+34205,"a dinner plate features chicken breast, broccoli and mushrooms",broccoli,,False
+34257,"a display of carrots, broccoli, and other vegetables",broccoli|carrot,,False
+34417,doughnuts frying in an industrial kitchen while people work behind them,donut|person|tie,,False
+34452,person standing in forest wearing green jacket throwing frisbee,frisbee|person,,False
+34760,a picture of a bathroom with white cabinets and tan tile floors,bottle|sink|toilet,,False
+34873,a large kitchen island with a sink underneath it,apple|bowl|chair|cup|dining table|sink|tv,,False
+35062,this is an image of a small child sleeping under blankets,bed|person,,False
+35197,a black and white photo of someone riding their skateboard,person|skateboard,,False
+35279,a man laying on the floor with a laptop and other items,book|bottle|cell phone|handbag|laptop|person|tennis racket,,False
+35326,a stove top oven sitting under a microwave,bottle|knife|oven,microwave,True
+35682,a young man looks up as he eats a chocolate covered donut,cake|chair|cup|dining table|donut|handbag|person,,False
+35770,"a bathroom with a sink, toilet and a cow theme decoration",sink|toilet,cow,True
+35963,two stuffed teddy bears on the ground next to a grave marker,bear|teddy bear,,False
+36494,a large group of people sit inside an eating hall with a huge clock on the,bottle|bowl|chair|clock|cup|dining table|person|refrigerator|vase,,False
+36539,a person wearing snowboards and a child with skis,person|snowboard,skis,True
+36660,someone wearing sandals and flip flops next to a phone and cell phone parts,cell phone|person,,False
+36678,a large building has two towers and some clocks,boat|clock,,False
+36844,an empty living room with several chairs and windows,bicycle|chair|couch|cup|potted plant|refrigerator|remote|tv,,False
+36861,a parking meter is shown in front of a store,bicycle|parking meter,,False
+36936,young people sitting on a couch playing games on the television,book|bowl|cell phone|couch|cup|person|potted plant|remote|tv,,False
+37670,a person holding a remote control above a toilet,person|remote|toilet,,False
+37689,a snowboarder in mid - air on a steep snowy ramp,person|snowboard,,False
+37740,a computer desk and lamp on a room,book|chair|couch|dining table|keyboard|laptop|mouse|potted plant|tv,,False
+37751,man on motorbike in a mountainous area under a cloudy sky,backpack|bicycle|motorcycle|person,,False
+37777,"a kitchen with a sink, refrigerator, microwave and table with fruit on top",banana|bowl|chair|dining table|orange|oven|potted plant|refrigerator|sink,microwave,True
+37988,a woman wearing a black skirt holding a tennis racquet,person|sports ball|tennis racket,,False
+38048,a fire hydrant on the side of the street with people walking in the distance,car|fire hydrant|handbag|person,,False
+38070,an aerial view of a toilet in the corner,bowl|toilet,,False
+38118,a person in snow gear is skiing down a hill,person|skis,,False
+38210,a man is skiing down a snowy hill,person|skis,,False
+38576,a black and white photo of a desktop computer and mouse,dining table|keyboard|laptop|mouse|tv,,False
+38678,a woman smiles while holding a bagel in her hands,cup|dining table|donut|person|sandwich|train,,False
+38825,two zebras standing next to each other eating grass,zebra,,False
+38829,two men riding on the back of a green bike,backpack|bicycle|motorcycle|person,,False
+39405,two people playing doubles tennis on a grass court,backpack|bench|chair|person|sports ball|suitcase|tennis racket,,False
+39477,"a couch, window, and plant in a small room",book|couch|dining table|potted plant|tv|vase,,False
+39480,"woman tennis player, red dress, tennis racket on a clay court",orange|person|tennis racket,,False
+39484,a busy street with traffic and a sign indicating where to go,airplane|car|chair|dining table|person|traffic light,,False
+39551,a female tennis player in action on the court,person|sports ball|tennis racket,,False
+39670,a blue and orange train traveling through tall grass,person|train,orange,True
+39769,two cats laying together on a pink blanket with remotes,bed|cat|couch|remote,,False
+39785,person surfing on large rough rapids and water,bench|person|surfboard,,False
+39914,a woman and a child are flying a kite,kite|person,,False
+39951,a tennis player hitting the ball with a racquet,person|sports ball|tennis racket,,False
+39956,"a messy room with a full bed, trash and pieces of luggage",bed|chair,suitcase,True
+40036,a jockey riding a horse jumping over a wooden fence,horse|person|potted plant,,False
+40083,two men sitting at an open market on the sidewalk,bicycle|bottle|car|chair|person|umbrella,,False
+40471,a kitchen with two stove top ovens and a ceiling fan,apple|banana|bottle|bowl|cup|knife|microwave|oven|refrigerator|sink|spoon,,False
+40757,a young child laying on a bed with the night light turned on,bed|person|tv,,False
+41488,an interstate sign with east 207 and queens bronx,truck,,False
+41633,a vintage red truck with an open flat bed is parked in a lot,car|person|truck,bed,True
+41635,black and white photograph of four cows with short horns standing behind a fence,cow,,False
+41872,a bedroom with a fireplace and television mounted above it,bed|chair|clock|tv,,False
+41888,a group of three birds walk on the ground,bird|person,,False
+41990,three people posing for a photo while wearing their skis,person|skis,,False
+42070,a bus parked at a stop with blue sky in the background,bus|car|person,,False
+42102,a young man in a kilt and jacket posing for the camera,handbag|person|tie,,False
+42178,a train station is pictured in a foggy sky,car|train,,False
+42276,an image of a small bathroom area with a toilet and many ski equipment,potted plant|skis|toilet,,False
+42296,the white polar bear plays in the pool with a colorful ball,bear|dog|sports ball,,False
+42528,"a persons legs, two photos, one that are holding a cell phone",cell phone|chair|person,,False
+42563,a train traveling on a track in the snow,car|train,,False
+42628,people are walking through the snow by some fire hydrants,fire hydrant|handbag|person|snowboard,,False
+42888,a traffic sign on a pole with other signs below,,,False
+42889,a stuffed bear with glasses sitting in front of a computer keyboard,bear|keyboard|teddy bear,laptop,True
+43314,an image of a man doing a trick on skis,backpack|person|skis,,False
+43435,two people are on surfboards in the ocean as one man stands on his board,person|surfboard,,False
+43581,a personal size pizza with mushrooms and other toppings on a table,dining table|fork|knife|pizza,,False
+43737,there is a large clock that is on the street corner,car|clock,,False
+43816,a baseball player hitting a ball with a bat,baseball bat|baseball glove|person|sports ball,,False
+44068,teddy bear sitting on a brown chair in front of a curtain,chair|teddy bear,,False
+44195,two men standing on a mountain holding snowboards,person|skis|snowboard,,False
+44260,a tree with apples growing on it in a forest,apple,,False
+44279,three people preparing food in a restaurant kitchen,bowl|knife|oven|person,,False
+44590,the men are standing near the many parked motorcycles,car|motorcycle|person,,False
+44652,an old style fighter plane flying through the clouds,airplane,,False
+44699,several white sheep standing on a grassy hill near some water,sheep,,False
+44877,a woman sitting in a wheelchair holding a tennis racquet,chair|person|sports ball|tennis racket,,False
+45070,a girl wearing a cowboy hat riding a horse,horse|person,,False
+45090,two surfers are out on the ocean and riding the waves,person|surfboard,,False
+45229,there is an image of a kitchen with light coming through,book|bottle|bowl|oven|potted plant,,False
+45472,fruit displayed on red table and plates with cups,bowl|cup|dining table|orange,,False
+45550,a smiling man with glasses and beard holding a piece of pizza,bowl|clock|person|sandwich,pizza,True
+45596,people walking with umbrellas and bikes near tall buildings,bicycle|car|person|umbrella,,False
+45728,a close up of a plate of food with noodles,cake|fork|knife,,False
+46031,two laptop computers sitting on top of a table,cell phone|dining table|keyboard|laptop|mouse|tv,,False
+46048,a child sitting on top of a bed in a bedroom,bed|book|person,,False
+46252,a batter stands with the bat behind him during a baseball game,baseball bat|baseball glove|person|sports ball,,False
+46378,a cat is feeding a dead bird with it's mouth,bird|cat,,False
+46463,"a sandwich with a tomato and lettuce, in a bun",oven|person|sandwich,,False
+46497,a woman with a child on the back of a boat,boat|person,,False
+46804,a large white sheep standing on top of a lush green field,person|sheep,,False
+46872,two people are unloading equipment onto the back of a truck,car|person|truck,,False
+47010,three giraffes walking along side of a river in an enclosure,cow|giraffe,,False
+47112,a pizza on a white plate in front of two wine glasses,bottle|bowl|chair|dining table|knife|person|pizza|wine glass,,False
+47121,a black cat with its head in a water faucet,bottle|bowl|cat|sink,,False
+47571,a couple on a horse drawn carriage sitting on top of a puddle,horse|person,,False
+47585,man and woman in wedding attire hold an umbrella for their photo,person|tie|umbrella,,False
+47740,a man laying in the sand under several colorful streamers,kite|person,,False
+47769,a living room filled with furniture and three window,chair|couch|dining table|tv,,False
+47801,a man with glasses eating cake from a white plate,cake|person|spoon,,False
+47819,a man standing next to a horse with luggage on its back,horse|person|suitcase,,False
+47828,a large bridge with a lot of lights and people walking on the side,boat|car|person,,False
+48153,a person's feet with a pink shoe on a bench,bench|person,,False
+48396,a woman standing next to a boy and table with cake on it,cake|chair|cup|dining table|knife|person,,False
+48504,two elephants are standing in a ring with people,bench|elephant|person,,False
+48555,a group of people riding horses across a wet beach,horse|person,,False
+48564,a man talking on the phone while wearing a ski hat,cell phone|person|skis,,False
+48924,the motorcycle is parked on dry grass near a tent,backpack|bicycle|handbag|motorcycle,,False
+49060,an old black and white photo of an older steam train,person|train,,False
+49091,many signs in asian writing hang on buildings,,,False
+49259,a man relaxes on a bench next to a sign in the grass,person,bench,True
+49269,a brown horse and white dog in tall grass,dog|horse,,False
+49759,a group of people playing volleyball in a gym,person|sports ball,,False
+49761,a herd of zebras and wildebeests grazing in a field,bird|cow|zebra,,False
+49810,an orange and white cat standing next to a mirror,bench|cat|orange,,False
+50006,a harbor with boats and a dock with a building in the background,boat|person|umbrella,,False
+50145,man with no shirt on riding bicycle in asian city,backpack|bicycle|person|umbrella,,False
+50149,a hanging banana vendor near his stall selling bananas,banana|bowl,,False
+50165,an electric train in a rural countryside,train,,False
+50326,a man stands on a beach waving,chair|kite|person,,False
+50331,large broccoli and green plants are in large clay planters,broccoli|potted plant,,False
+50380,an older man helping a child ride a pony,chair|horse|person,,False
+50638,a little boy holding a teddy bear and walking in a blue flower field,person|teddy bear,,False
+50679,a single orange laying on the side of a road,car|orange,,False
+50811,a smiling man sitting in front of a bowl and two bottles of beer,bottle|bowl|cell phone|dining table|person|remote|tie,,False
+50828,"two white beds with pillows, one is made",bed|chair|dining table|remote|suitcase,,False
+50844,the two teddy bears are wearing hats and scarfs,bed|teddy bear,,False
+50896,a glass bowl containing several small oranges,bowl|dining table|orange,,False
+50943,a surfer rides a big blue wave as it breaks,person|surfboard,,False
+51008,the cat is looking at a webpage on a laptop,cat|laptop,,False
+51309,several horses grazing in a field together,horse|person,,False
+51314,a man in a wet suit on his surfboard,person|surfboard,,False
+51326,flowers and halloween pumpkins are displayed at a book sale,vase,book,True
+51598,the wall is gone from the mirror and it appears to be in someones house,bottle|sink|toothbrush,,False
+51610,black and white photo of baby looking at a laptop,bed|dining table|laptop|person,,False
+51712,a skier in brown jacket skiing down a slope,person|skis,,False
+51738,"a large room with a bed, chair and table",bed|chair|dining table|suitcase,,False
+51938,a person on skis jumping over a red rail,person|skis,,False
+51961,a parking meter covered in graffiti next to a building,parking meter,,False
+51976,a surfer catching a wave in the ocean,person|surfboard,,False
+52007,a double decker bus is parked at a bus stop,bus|person|tie,,False
+52017,a red yellow and blue airplane flying in a cloudy sky,airplane|person,,False
+52412,an aerial view of a parking lot with airplanes wing,airplane|car|truck,,False
+52413,a girl is using a toy mobile phone,cell phone|chair|cup|person,,False
+52462,two zebra standing next to each other in tall grass,zebra,,False
+52507,a man holding a surfboard walking into the ocean,person|surfboard,,False
+52565,black and white cow standing on beach with ocean in background,cow|person,,False
+52591,black and white photograph of woman wearing snow gear holding skis,person|skis,,False
+52891,a shaggy dog holds a frisbee on the beach,dog|frisbee|person,,False
+52996,people in camouflage are gathered around a kitchen,backpack|book|bowl|cup|dining table|handbag|knife|oven|person|refrigerator,,False
+53505,a bathroom with a toilet and towel rack with jars on it,bottle|cell phone|toilet,,False
+53529,a dog is sitting in the truck door and is wearing a st patricks hat,car|dog|person|truck,,False
+53624,an elephant with water standing in its enclosure,elephant|person,,False
+53626,three people with skis and ski poles standing on the snow,person|skis,,False
+53909,person showing an iphone with the finger on a keyboard,cell phone|person,keyboard,True
+53994,a red and blue parking meter on the sidewalk,car|parking meter,,False
+54123,a herd of zebras in a grassy plain,zebra,,False
+54164,a man in a black wet suit riding a wave on top of a surfboard,motorcycle|person|surfboard,,False
+54592,two skiers standing on a snowy mountain slope at sunset,backpack|person|skis,,False
+54593,little league baseball game with player up to plate,backpack|baseball bat|baseball glove|bottle|car|chair|motorcycle|person|sports ball,,False
+54605,a slice of cake is next to a beverage at a cafe,cake|chair|cup|dining table|fork|person,,False
+54628,a three tiered cake on a table with a blue cloth,cake|chair|dining table|person|potted plant,,False
+54654,a woman is cooking a meal in a pot,oven|person,,False
+54931,a girl in tights and heels is holding a rope near a horse,horse|person,,False
+54967,a street with tall buildings and trees next to cars,car|person|traffic light|truck,,False
+55002,a toilet with a metal flush toilet bowl,chair|person|toilet,bowl,True
+55022,there is a pink bike in a room with wooden floors,bicycle|person,,False
+55072,there is a tall giraffe walking along the savannah,giraffe|person,,False
+55150,two children sitting in luggage carts by cars,backpack|book|car|person|suitcase,,False
+55167,a yellow and blue bus driving down the road,backpack|bus|car|person|truck,,False
+55299,bird standing on the edge of a rocky beach,bird|umbrella,,False
+55528,young man sitting on couch holding paper bag with toothbrush,book|chair|clock|couch|person|remote|toothbrush,,False
+55950,a man in an orange shirt is playing tennis,person|sports ball|tennis racket,orange,True
+56127,an unusual looking kitchen that looks like a ship,bench|cup|oven|refrigerator|sink,boat,True
+56288,a big sandwich on a plate in front of a computer,dining table|keyboard|sandwich|tv,laptop,True
+56344,three computer monitors and two laptops sitting on a desk,cell phone|dining table|keyboard|laptop|mouse|remote|tv,,False
+56350,there is a photo of people on the floor and under the urinal,person|toilet,,False
+56545,bird perched on branch of tree in natural area,bird,,False
