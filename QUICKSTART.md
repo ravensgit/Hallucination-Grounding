@@ -317,5 +317,3 @@ DEFAULT_GAMMA = 0.2        # Length penalty weight
 ```bash
 python milestone_3.py
 ```
-
-Good luck! 🚀
